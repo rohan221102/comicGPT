@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+        <premise>Prosef and Connor's Adventures!</premise>
+        <figures>
+                <figure>
+                        <name>Prosef</name>
+                        <appearance>male</appearance>
+                        <skin>olive</skin>
+                        <hair>black</hair>
+                        <lips>default</lips>
+                </figure>
+                <figure>
+                        <name>Connor</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>default</lips>
+                </figure>
+        </figures>
+        <panels>
+                <panel>
+                        <above>The timeless debate: Democracy - an essential voice for the many or a barrier to prompt action?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>competing</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy gives a voice to the masses, allowing diverse perspectives to be heard. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>droving</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy can be slow and inefficient, hindering quick decision-making processes.</content>
+                                </balloon>
+                        </right>
+                        <setting>changing room</setting>
+                </panel>
+                <panel>
+                        <above>Navigating the fine line: Does democracy safeguard rights or impede progress with its potential for deadlock?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>shaking hands</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy promotes equality and protects individual rights. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>defending</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy can lead to gridlock and political stalemates if not managed effectively.</content>
+                                </balloon>
+                        </right>
+                        <setting>north by northwest</setting>
+                </panel>
+                <panel>
+                        <above>The ongoing discourse: Is democracy a tool for empowering the populace or a system vulnerable to elite manipulation?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>shaking hands</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy fosters citizen participation, creating a sense of ownership among the population. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>scary</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy can be influenced by special interests and powerful elites, skewing decision-making.</content>
+                                </balloon>
+                        </right>
+                        <setting>cave rocks</setting>
+                </panel>
+                <panel>
+                        <above>A tale of trade-offs: Does democracy ensure government transparency and accountability or pave the way for hasty, populist decisions?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>competing</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy encourages transparency and accountability in government actions. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>charging</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy may result in populist policies that are short-sighted and not well-thought-out.</content>
+                                </balloon>
+                        </right>
+                        <setting>changing room</setting>
+                </panel>
+                <panel>
+                        <above>The critical balance: Does democracy stand as the beacon of peaceful power transitions or risk overshadowing minority voices in the pursuit of majority rule?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>competing</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy allows for peaceful transitions of power through free and fair elections. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>droving</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy can sometimes result in majority rule, neglecting the needs and rights of minority groups.</content>
+                                </balloon>
+                        </right>
+                        <setting>police lineup</setting>
+                </panel>
+                <panel>
+                        <above>The divergence unfolds: Is democracy a catalyst for an informed citizenry and civic education, or susceptible to misinformation and propaganda, eroding public trust?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>three</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy leads to a more engaged and informed citizenry, fostering civic education. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>scary</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy can be manipulated by misinformation and propaganda, undermining public trust.</content>
+                                </balloon>
+                        </right>
+                        <setting>florida</setting>
+                </panel>
+                <panel>
+                        <above>Balancing act: Is democracy a flexible system able to adapt to societal shifts and policy changes, or does its susceptibility to external threats pose a risk of political instability?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>four</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy adapts to societal changes and allows for policy flexibility. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>charging</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy can be unstable and vulnerable to external threats, leading to political unrest.</content>
+                                </balloon>
+                        </right>
+                        <setting>hawaii</setting>
+                </panel>
+                <panel>
+                        <above>Voices collide in the democratic arena: Is compromise and negotiation the essence of democracy, or does the system falter under the weight of short-term whims and neglect long-term sustainability?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>five</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy encourages compromise and negotiation, finding common ground among competing interests. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>chained</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy can be influenced by short-term thinking and popular opinion, neglecting long-term sustainability.</content>
+                                </balloon>
+                        </right>
+                        <setting>high windows exterior</setting>
+                </panel>
+                <panel>
+                        <above>In the debate arena: Does democracy foster innovation and creativity through new ideas, or does its potential for polarization and division drive societal rifts to the forefront?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>six</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Pro: Democracy promotes innovation and creativity by encouraging new ideas and solutions. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>examining document</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy can be polarizing and divisive, creating rifts within society.</content>
+                                </balloon>
+                        </right>
+                        <setting>north by northwest</setting>
+                </panel>
+                <panel>
+                        <above>The clash of perspectives: Is democracy the empowering force behind shaping individual and national futures or a fragile system demanding perpetual vigilance to safeguard its core values?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>shaking hands</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Pro: Democracy empowers individuals to participate in shaping their own futures and the future of their country. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>introducing</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Con: Democracy requires constant vigilance and maintenance to prevent erosion of democratic values.</content>
+                                </balloon>
+                        </right>
+                        <setting>lava</setting>
+                </panel>
+        </panels>
+</comic>

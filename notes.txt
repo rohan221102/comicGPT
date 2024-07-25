@@ -1,0 +1,51 @@
+Tying together comic generation
+
+One topic - define through config file
+Replace prompt string with a single topic as input? Move rest of prompt into initial string in context object, use String variable to insert topic from config
+
+Split the topic into panels/talking points using numbered list system
+Split the talking points into rhyming pro and con viewpoints
+use context to "pass" the prompts back to GPT and modify them until they're in the desired format
+maintain the numbered list structure as we modify it, that way it'll maintain its mapping to our java objects
+
+ISSUE: Numbered list check incompatible with multi-line entries
+ISSUE: We want XML to be generated dynamically by the AI model (later sprints, maybe leave XML structure to the java code)
+	possible approach: use builders to create XML structure, let GPT choose certain key variables (e.g. character poses, text, captions, etc)
+
+
+
+
+CURRENT OUTPUT
+1. Pro: Social media helps connect people across the globe, fostering communication and understanding. DELIMITED_HERE
+Con: Social media can also be a platform for spreading misinformation and fake news, leading to confusion and distrust.
+
+2. Pro: Social media allows for the rapid spread of important information and mobilization during times of crisis. DELIMITED_HERE
+Con: Social media can also promote cyberbullying and online harassment, contributing to mental health issues.
+
+3. Pro: Social media provides a platform for marginalized voices to be heard and for social justice movements to gain momentum. DELIMITED_HERE
+Con: Social media can create echo chambers where people only interact with those who share their beliefs, leading to polarization and division.
+
+4. Pro: Social media enables businesses to reach a wider audience and engage with customers in real-time. DELIMITED_HERE
+Con: Social media can create unrealistic standards of beauty and success, contributing to low self-esteem and body image issues.
+
+5. Pro: Social media allows for the sharing of diverse perspectives and cultural exchange. DELIMITED_HERE
+Con: Social media can lead to addiction and excessive screen time, impacting mental and physical health.
+
+6. Pro: Social media has revolutionized the way we consume news and media, making information more accessible and personalized. DELIMITED_HERE
+Con: Social media can erode privacy and security, leading to data breaches and exploitation of personal information.
+
+7. Pro: Social media can be a powerful tool for education and learning, providing access to resources and knowledge from around the world. DELIMITED_HERE
+Con: Social media can perpetuate stereotypes and discrimination, reinforcing harmful biases and prejudices.
+
+8. Pro: Social media has democratized the creation and sharing of content, allowing individuals to express themselves creatively. DELIMITED_HERE
+Con: Social media can contribute to feelings of envy and inadequacy, as users compare themselves to curated and idealized versions of others' lives.
+
+9. Pro: Social media can be a platform for positive social change and activism, mobilizing communities to support important causes. DELIMITED_HERE
+Con: Social media can also lead to a loss of social skills and face-to-face interactions, hindering real-life communication and relationships.
+
+10. Pro: Social media has the potential to amplify voices of underrepresented communities and challenge mainstream narratives. DELIMITED_HERE
+Con: Social media can create a superficial and image-driven culture, where validation is sought through likes and followers rather than authentic connections.
+
+
+
+UPDATED OUTPUT

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+        <premise>Prosef and Connor's Adventures!</premise>
+        <figures>
+                <figure>
+                        <name>Prosef</name>
+                        <appearance>male</appearance>
+                        <skin>olive</skin>
+                        <hair>black</hair>
+                        <lips>default</lips>
+                </figure>
+                <figure>
+                        <name>Connor</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>default</lips>
+                </figure>
+        </figures>
+        <panels>
+                <panel>
+                        <above>Debate on the dangerous potential of artificial intelligence.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>competing</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI is like having a super smart assistant </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>scary</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Except this assistant might try to kill you one day.</content>
+                                </balloon>
+                        </right>
+                        <setting>north by northwest</setting>
+                </panel>
+                <panel>
+                        <above>Contrasting views on the intelligence comparison between AI and humans.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>styling</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>They say AI can outsmart humans </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>stroking cat</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Well, humans do some really dumb things sometimes.</content>
+                                </balloon>
+                        </right>
+                        <setting>lava</setting>
+                </panel>
+                <panel>
+                        <above>Doubt cast on AI's ability to predict certain aspects of life.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>whispering</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI can predict the future </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>scolding</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> But can it predict my love life? I doubt it.</content>
+                                </balloon>
+                        </right>
+                        <setting>rainbow</setting>
+                </panel>
+                <panel>
+                        <above>Contrasting perspectives on the learning abilities of AI and animals.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>goofy</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>It's amazing how AI can learn from data </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>stroking cat</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, unlike my dog who still doesn't know how to fetch.</content>
+                                </balloon>
+                        </right>
+                        <setting>bank exterior</setting>
+                </panel>
+                <panel>
+                        <above>Discussion on the implications of AI's capability to create music.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>defiant</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Have you heard AI can write music now? </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>stroking cat</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, great, now we'll have robots winning Grammys too.</content>
+                                </balloon>
+                        </right>
+                        <setting></setting>
+                </panel>
+                <panel>
+                        <above>Debate on the human-like qualities of AI and its limitations.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>goofy</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI is becoming more and more human-like </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>droving</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> But let's be real, they still can't understand sarcasm.</content>
+                                </balloon>
+                        </right>
+                        <setting>boneyard</setting>
+                </panel>
+                <panel>
+                        <above>Discussion on AI's ability to showcase creativity with a touch of skepticism.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>scolding</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>They say AI can be creative </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>inspiring</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Sure, let's see it paint a masterpiece with a broken brush.</content>
+                                </balloon>
+                        </right>
+                        <setting></setting>
+                </panel>
+                <panel>
+                        <above>Contemplating the impact of AI on healthcare with a touch of humor.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>five</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI is revolutionizing healthcare </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>campaigning against</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> I just hope it won't misdiagnose me with a broken heart.</content>
+                                </balloon>
+                        </right>
+                        <setting>guillotine</setting>
+                </panel>
+                <panel>
+                        <above>Debate on AI's potential role in environmental conservation with a hint of skepticism about human behavior.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>six</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI can help us save the environment </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>defending</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Maybe it can finally convince people to stop littering.</content>
+                                </balloon>
+                        </right>
+                        <setting>factory</setting>
+                </panel>
+                <panel>
+                        <above>Discussion on the potential benefits of AI in enhancing human life with a cautionary note about unintended consequences.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>styling</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> They say AI will enhance our lives in so many ways </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>droving</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Until it gets bored and starts playing pranks on us.</content>
+                                </balloon>
+                        </right>
+                        <setting>university</setting>
+                </panel>
+        </panels>
+</comic>

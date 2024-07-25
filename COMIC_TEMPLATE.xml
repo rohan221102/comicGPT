@@ -1,0 +1,252 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+        <premise>PREMISE_TITLE</premise>
+        <figures>
+                <figure>
+                        <name>FIGURE_1_NAME</name>
+                        <appearance>FIGURE_1_APPEARANCE</appearance>
+                        <skin>FIGURE_1_SKIN</skin>
+                        <hair>FIGURE_1_HAIR</hair>
+                        <lips>FIGURE_1_LIPS</lips>
+                </figure>
+                <figure>
+                        <name>FIGURE_2_NAME</name>
+                        <appearance>FIGURE_2_APPEARANCE</appearance>
+                        <skin>FIGURE_2_SKIN</skin>
+                        <hair>FIGURE_2_HAIR</hair>
+                        <lips>FIGURE_2_LIPS</lips>
+                </figure>
+        </figures>
+
+        <panels>
+                <panel id="1">
+                        <above>PANEL_1_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_1_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_1_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="2">
+                        <above>PANEL_2_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_2_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_2_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="3">
+                        <above>PANEL_3_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_3_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_3_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="4">
+                        <above>PANEL_4_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_4_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_4_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="5">
+                        <above>PANEL_5_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_5_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_5_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="6">
+                        <above>PANEL_6_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_6_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_6_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="7">
+                        <above>PANEL_7_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_7_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_7_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="8">
+                        <above>PANEL_8_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_8_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_8_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="9">
+                        <above>PANEL_9_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_9_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_9_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+
+                <panel id="10">
+                        <above>PANEL_10_TITLE</above>
+                        <left>
+                                <figure>
+                                        <name>FIGURE_1_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_10_FIGURE_1_SPEECH</content>
+                                </balloon>
+                        </left>
+
+                        <right>
+                                <figure>
+                                        <name>FIGURE_2_NAME</name>
+                                </figure>
+
+                                <balloon status = "speech">
+                                        <content>PANEL_10_FIGURE_2_SPEECH</content>
+                                </balloon>
+                        </right>
+                </panel>
+        </panels>
+</comic>

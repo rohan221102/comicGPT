@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+        <premise>Prosef and Connor's Adventures!</premise>
+        <figures>
+                <figure>
+                        <name>Prosef</name>
+                        <appearance>male</appearance>
+                        <skin>olive</skin>
+                        <hair>black</hair>
+                        <lips>default</lips>
+                </figure>
+                <figure>
+                        <name>Connor</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>default</lips>
+                </figure>
+        </figures>
+        <panels>
+                <panel>
+                        <above>Far AI has come, believe you must - flirting toaster, unstoppable it seems.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>imprisoned</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Can you believe how far AI has come? </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>competing for</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, now my toaster won't stop flirting with me.</content>
+                                </balloon>
+                        </right>
+                        <setting>interview room</setting>
+                </panel>
+                <panel>
+                        <above>Supposed to make our lives easier, AI is - embarrassing photos, posting online, beware you must.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>neutral</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI is supposed to make our lives easier. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>campaigning against</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, until it starts posting embarrassing photos of me online.</content>
+                                </balloon>
+                        </right>
+                        <setting>scotus</setting>
+                </panel>
+                <panel>
+                        <above>Heard I did, AI can predict the stock market - financial advisor, toaster thinks itself, oh great trouble it may bring.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>imprisoned</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>I heard AI can predict the stock market. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>scary</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Oh great, now my toaster thinks it's a financial advisor.</content>
+                                </balloon>
+                        </right>
+                        <setting>guillotine</setting>
+                </panel>
+                <panel>
+                        <above>Even poetry can write AI, they say - breakup text, can it compose for thee?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>stroking cat</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>They say AI can even write poetry now. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>inspiring</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, but can it write a breakup text for me?</content>
+                                </balloon>
+                        </right>
+                        <setting>courthouse</setting>
+                </panel>
+                <panel>
+                        <above>Revolutionizing healthcare, AI is - mix up medical records with cat's, hopefully it won't.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>campaigning against</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI is revolutionizing healthcare. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>defending</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Hopefully it won't mix up my medical records with my cat's again.</content>
+                                </balloon>
+                        </right>
+                        <setting>north by northwest</setting>
+                </panel>
+                <panel>
+                        <above>Wonder if AI will have emotions ever I do - existential crisis, robot vacuum having, can't wait you say?</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>scolding</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>I wonder if AI will ever have emotions. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>campaigning against</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, I can't wait for my robot vacuum to have an existential crisis.</content>
+                                </balloon>
+                        </right>
+                        <setting>bank exterior</setting>
+                </panel>
+                <panel>
+                        <above>Might replace some jobs, AI can - compete with a robot for barista job, now you must.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>walking away</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI might replace some jobs. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>leaking</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Great, now I have to compete with a robot for my barista job.</content>
+                                </balloon>
+                        </right>
+                        <setting>rainbow</setting>
+                </panel>
+                <panel>
+                        <above>Heard I did, AI can create art - asked printer to paint masterpiece, jammed it did, hmmm.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>defending</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>I heard AI can create art. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>visiting</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> I tried asking my printer to paint me a masterpiece, but all it did was jam.</content>
+                                </balloon>
+                        </right>
+                        <setting>north by northwest</setting>
+                </panel>
+                <panel>
+                        <above>They say, AI can drive cars better than humans - detour to donut shop, decide it might, hmm.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>rent an angry mob</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>They say AI can drive cars better than humans. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>styling</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, until it decides to take a detour to the nearest donut shop.</content>
+                                </balloon>
+                        </right>
+                        <setting>cave</setting>
+                </panel>
+                <panel>
+                        <above>Amazing, advancing quickly AI is - relationship advice from blender, soon receiving, hmm.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>goofy</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> It's amazing how AI is advancing so quickly. </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>styling</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, pretty soon my blender will be giving me relationship advice.</content>
+                                </balloon>
+                        </right>
+                        <setting>interview room</setting>
+                </panel>
+        </panels>
+</comic>

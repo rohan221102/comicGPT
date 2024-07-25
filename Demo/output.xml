@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+        <premise>Prosef and Connor's Adventures!</premise>
+        <figures>
+                <figure>
+                        <name>Prosef</name>
+                        <appearance>male</appearance>
+                        <skin>olive</skin>
+                        <hair>black</hair>
+                        <lips>default</lips>
+                </figure>
+                <figure>
+                        <name>Connor</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>default</lips>
+                </figure>
+        </figures>
+        <panels>
+                <panel>
+                        <above>Debate over the future of work and AI leads to a whimsical conclusion about newfound career opportunities.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>centaur</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>I heard AI can do our jobs better than us </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>screaming</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> I guess that means we can finally become professional nappers.  </content>
+                                </balloon>
+                        </right>
+                        <setting>red square</setting>
+                </panel>
+                <panel>
+                        <above>Contemplating the complexities of artificial intelligence and human emotions in a light-hearted exchange.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>speaking</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>Do you think AI will ever be able to understand human emotions? </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>learning</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Well, considering I can't understand my own emotions half the time, I doubt it.  </content>
+                                </balloon>
+                        </right>
+                        <setting>trench</setting>
+                </panel>
+                <panel>
+                        <above>Humorous banter ensues as the topic shifts to AI's potential for developing its own language and implications on computer-human relationships.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>reading comics</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>I read that AI can now create its own language </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>reading</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Great, now I have to worry about my computer gossiping behind my back.  </content>
+                                </balloon>
+                        </right>
+                        <setting>cave</setting>
+                </panel>
+                <panel>
+                        <above>Reflecting on the rapid advancements in AI technology with a touch of humor and skepticism about its newfound capabilities.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>holding nose</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>It's amazing how quickly AI is evolving </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>screaming</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, it's like my laptop went from being a calculator to a conspiracy theorist overnight.  </content>
+                                </balloon>
+                        </right>
+                        <setting></setting>
+                </panel>
+                <panel>
+                        <above>Contrasting the efficiency of AI in data analysis against human indecisiveness in everyday choices, highlighting the disparity in cognitive capabilities.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>competing for</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI can analyze massive amounts of data in seconds </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>pleading</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Meanwhile, I can't even decide what to have for lunch.  </content>
+                                </balloon>
+                        </right>
+                        <setting>north by northwest</setting>
+                </panel>
+                <panel>
+                        <above>Discussing the superior facial recognition abilities of AI compared to humans, humorously hinting at the convenience it offers in social interactions.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>three</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>They say AI can even recognize faces better than humans </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>guiding</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Perfect for those days when you're feeling too lazy to even smile at your friends.  </content>
+                                </balloon>
+                        </right>
+                        <setting>lava</setting>
+                </panel>
+                <panel>
+                        <above>Contemplating the potential development of humor in AI, with a hint of sarcasm about its probable commentary on human cognition.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>four</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>I wonder if AI will eventually have a sense of humor </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>expelled</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Probably, but I bet it will be really sarcastic and make fun of our slow processing speed.  </content>
+                                </balloon>
+                        </right>
+                        <setting>war of the worlds</setting>
+                </panel>
+                <panel>
+                        <above>Reflecting on the growing integration of AI into daily routines, humorously envisioning a future where even household appliances offer guidance in personal matters.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>five</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>AI is becoming more integrated into our daily lives </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>tipping</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Soon we'll be taking relationship advice from our toaster.  </content>
+                                </balloon>
+                        </right>
+                        <setting>factory</setting>
+                </panel>
+                <panel>
+                        <above>Discussing the idea of implementing AI in customer service for efficiency, with a hint of relief at the prospect of avoiding long wait times.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>six</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content>They should make AI mandatory in all customer service interactions </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>guiding</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, it'll probably be the first time I don't get put on hold for an hour.  </content>
+                                </balloon>
+                        </right>
+                        <setting>mongolia</setting>
+                </panel>
+                <panel>
+                        <above>Reflecting on the transformative impact of AI on society while playfully acknowledging its adeptness at handling multiple tasks, hinting at a whimsical view of AI's potential influence.</above>
+                        <left>
+                                <figure>
+                                        <name>Prosef</name>
+                                        <pose>purposeful</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> AI is revolutionizing the way we live and work </content>
+                                </balloon>
+                        </left>
+                        <right>
+                                <figure>
+                                        <name>Connor</name>
+                                        <pose>purposeful</pose>
+                                </figure>
+                                <balloon status = "speech">
+                                        <content> Yeah, who would've thought that our future overlords would be so good at multitasking.</content>
+                                </balloon>
+                        </right>
+                        <setting>rubbish dump</setting>
+                </panel>
+        </panels>
+</comic>
